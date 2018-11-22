@@ -1,0 +1,41 @@
+{
+	"name": "georgpreissl/dummyx",
+	"homepage":"https://github.com/georgpreissl/dummyx",
+	"description": "Use DOMPDF to export articles as PDF.",
+	"keywords":["contao","dompdf","pdf"],
+	"type": "contao-bundle",
+	"license": "LGPL-3.0+",
+	"authors": [
+		{
+			"name": "Georg Preissl",
+			"homepage": "https://georgpreissls.com",
+			"role":"Developer"
+		}
+	],
+	"support":{
+			"email":"hallo@georgpreissls.com",
+			"issues":"https://github.com/georgpreissl/contao-dompdf-bundle/issues",
+			"source":"https://github.com/georgpreissl/contao-dompdf-bundle"
+	},
+	"require": {
+		"php": ">=5.6.0",
+		"contao/core-bundle": "^4.4"
+	},
+	"require-dev": {
+		"contao/manager-plugin": "^2.0"
+	},
+	"conflict": {
+		"contao/manager-plugin": "<2.0 || >=3.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"GeorgPreissl\\DummyX\\": "src/"
+		},
+		"classmap": [
+			"src/Resources/contao/"
+		]
+	},
+	"extra": {
+		"contao-manager-plugin": "GeorgPreissl\\DummyX\\ContaoManager\\Plugin"
+	}
+}
