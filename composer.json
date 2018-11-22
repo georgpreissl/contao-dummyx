@@ -1,7 +1,7 @@
 {
 	"name": "georgpreissl/dummyx",
 	"homepage":"https://github.com/georgpreissl/dummyx",
-	"description": "Use DOMPDF to export articles as PDF.",
+	"description": "Contao Dummy Bundle X",
 	"keywords":["contao","dompdf","pdf"],
 	"type": "contao-bundle",
 	"license": "LGPL-3.0+",

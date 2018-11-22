@@ -1,4 +1,4 @@
-# Contao DOMPDF Bundle
+# Contao Dummy Bundle X
 
 [![Latest Stable Version](https://poser.pugx.org/w3scout/contao-dompdf-bundle/v/stable)](https://packagist.org/packages/w3scout/contao-dompdf-bundle)
 [![Total Downloads](https://poser.pugx.org/w3scout/contao-dompdf-bundle/downloads)](https://packagist.org/packages/w3scout/contao-dompdf-bundle)
@@ -7,8 +7,7 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ee7f709965f140cf86fcaf36fcf1cf76)](https://www.codacy.com/app/w3scout/contao-dompdf-bundle?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=w3scout/contao-dompdf-bundle&amp;utm_campaign=Badge_Grade)
 
 ## About
-Use [DOMPDF](https://github.com/dompdf/dompdf) to export articles as PDF.  
-DOMPDF is slower than TCPDF but provides better CSS support.
+xxx
 
 ## Requirements
  * PHP version >= 5.6.0
