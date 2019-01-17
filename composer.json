@@ -4,7 +4,6 @@
 	"description": "Contao Dummy Bundle X",
 	"keywords":["contao","dompdf","pdf"],
 	"type": "contao-bundle",
-	"version": "1.1",
 	"license": "LGPL-3.0+",
 	"authors": [
 		{
