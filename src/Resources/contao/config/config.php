@@ -41,3 +41,4 @@ $GLOBALS['BE_MOD']['system']['dummyxxxx'] = array(
 		'callback'        => 'GrixBe'
 
 );
+$GLOBALS['BE_MOD']['system']['test2'] = array();
