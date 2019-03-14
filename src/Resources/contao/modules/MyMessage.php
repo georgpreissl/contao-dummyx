@@ -31,7 +31,6 @@ class MyMessage extends \BackendModule
 
     protected function compile()
     {
-    	// return "Fuck";
         $this->Template->html = "hello you!";
     }
 
