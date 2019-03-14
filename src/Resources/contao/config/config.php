@@ -37,8 +37,8 @@
 $GLOBALS['TL_HOOKS']['replaceInsertTags'][] = array('GeorgPreissl\\DummyX\\DummyXHook', 'myReplaceInsertTags');
 
 
-$GLOBALS['BE_MOD']['system']['dummyxxxx'] = array(
-		'callback'        => 'GrixBe'
+$GLOBALS['BE_MOD']['system']['mymessage'] = array
+	(
+		'callback'        => 'GeorgPreissl\DummyX\MyMessage'
+	);
 
-);
-$GLOBALS['BE_MOD']['system']['test2'] = array();
